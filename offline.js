@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1495653676,
+	"version": 1496694275,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,15 @@
 		"images/touchdown-sheet0.png",
 		"images/touchup-sheet0.png",
 		"images/touchbutton-sheet0.png",
+		"images/gameintro-sheet0.png",
+		"images/youwon-sheet0.png",
+		"images/youlose-sheet0.png",
+		"images/space2.png",
+		"images/space3.png",
+		"images/space4.png",
+		"images/enemyspaceship-sheet0.png",
+		"images/enemyspaceship2-sheet0.png",
+		"images/ufo-sheet0.png",
 		"media/game-over.m4a",
 		"media/game-over.ogg",
 		"media/game-theme.m4a",
